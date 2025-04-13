@@ -1,9 +1,9 @@
 <p><h1 align="center">Gambar Web Keuangan - Magang</h1></p>
 
 ## Login
-![alt text](https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20173736.png?raw=true)
+<img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20173736.png?raw=true" alt="alt text" width="800">
 
-![alt text](https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot_13-4-2025_173616_127.0.0.1.jpeg?raw=true)
+<img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot_13-4-2025_173616_127.0.0.1.jpeg?raw=true" alt="alt text" width="800">
 
 ## Pegawai
 <img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20183840.png?raw=true" alt="alt text" width="800">
