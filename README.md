@@ -22,3 +22,14 @@
 <img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20184528.png?raw=true" alt="alt text" width="650">
 
 <img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20184604.png?raw=true" alt="alt text" width="650">
+
+## Admin
+<p>Admin dapat melakukan semua yang pegawai dan bendahara dapat lakukan</p>
+
+<img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20184157.png?raw=true" alt="alt text" width="650">
+
+<img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20184240.png?raw=true" alt="alt text" width="650">
+
+<img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20184317.png?raw=true" alt="alt text" width="650">
+
+<img src="https://github.com/NelsonRumpa/keuangan/blob/main/screenshot/Screenshot%202025-04-13%20184436.png?raw=true" alt="alt text" width="650">
